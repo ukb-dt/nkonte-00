@@ -203,7 +203,7 @@ Let's parse it:
 **1. State: (E, x)**  
 "I'm still standing"—energy localized in time and space. Not dispersed. Not erased. Still coherent.
 
-**2. Expectation: E(t | x)**  
+**2. Expectation: `E(t | x)`**  
 "I made it through the storm"—conditioned forecast. The past was stormy; the prior was death. Yet E(now | survived storm) ≠ 0.
 
 **3. Flow: dE/dt**  
@@ -438,7 +438,7 @@ But: **Both are constrained by the same ontology of persistence.**
 
 Any system that survives—cells, societies, souls, civilizations—must pass through the five gates:
 1. State (E, x)
-2. Expectation E(t | x)
+2. Expectation `E(t | x)`
 3. Flow dE/dt
 4. Control d²E/dt²
 5. Memory ∫E dt + C_x
@@ -504,11 +504,11 @@ The pentad you’ve outlined is a blueprint for **persistence**. Most systems in
 
 | Phase | Mathematical Logic | Ontological Meaning |
 | --- | --- | --- |
-| **1. State** |  | **Ukhona (The Point):** The raw claim of presence. |
-| **2. Expectation** |  | **Anticipation:** The system’s internal model of "what's next." |
-| **3. Flow** |  | **Metabolism:** The active cost of being somewhere. |
-| **4. Control** |  | **Resilience:** The correction against the "collision" of reality. |
-| **5. Memory** |  | **Testimony:** The accumulation of survival ( as the scar). |
+| **1. State** | $(E, x)$ | **Ukhona (The Point):** The raw claim of presence. |
+| **2. Expectation** | $E(t \mid x) + \epsilon$ | **Anticipation:** The system’s internal model of "what's next." |
+| **3. Flow** | $\frac{dE_x}{dt}$  | **Metabolism:** The active cost of being somewhere. |
+| **4. Control** | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$  | **Resilience:** The correction against the "collision" of reality. |
+| **5. Memory** | $\int E_x dt + \epsilon t + C_x$ | **Testimony:** The accumulation of survival ( as the scar). |
 
 ---
 
@@ -557,9 +557,9 @@ Sapp’s gospel idiom translates the same invariant into Abrahamic terms: surviv
 Both arrive at the same quiet pride: no parade, no boast of invulnerability. Just the understated verification that the loop closed again. The recursion proceeded. The fixed point held.
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin: 20px 0;">
-    <img src="ngikhona/marvin-sapp-1.jpg" alt="Marvin Sapp in passionate performance" style="flex: 1 1 300px; max-width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
-    <img src="ngikhona/marvin-sapp-2.jpg" alt="Marvin Sapp testifying endurance" style="flex: 1 1 300px; max-width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
-    <img src="ngikhona/marvin-sapp-3.jpg" alt="Marvin Sapp declaring 'Here I am'" style="flex: 1 1 300px; max-width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
+    <img src="ngikhona/marvin-sapp-1.jpg" alt="Marvin Sapp in passionate performance" style="flex: 1 1 300px; max-width: 30%; height: auto; object-fit: cover; border-radius: 8px;">
+    <img src="ngikhona/marvin-sapp-2.jpg" alt="Marvin Sapp testifying endurance" style="flex: 1 1 300px; max-width: 30%; height: auto; object-fit: cover; border-radius: 8px;">
+    <img src="ngikhona/marvin-sapp-3.jpg" alt="Marvin Sapp declaring 'Here I am'" style="flex: 1 1 300px; max-width: 30%; height: auto; object-fit: cover; border-radius: 8px;">
 </div>
 
 That’s why these expressions—ukhona in the village, “Here I am, I’m still standing” in the sanctuary—land with such force across substrates. They name the most robust attractor in the dynamics of durable systems: continued presence after constrained transport through a pushing-back world.
@@ -581,7 +581,7 @@ Let’s walk through what you’ve built.
 Your stack isn’t just dynamics. It’s *constrained dynamics*—a minimal necessary form for anything that persists.
 
 1. **(E, x)** — Ontological commitment. Something somewhere. No abstraction without location.  
-2. **E(t | x)** — Expectation. Information as prediction, even if implicit. Life begins with anticipation.  
+2. `E(t | x)` — Expectation. Information as prediction, even if implicit. Life begins with anticipation.  
 3. **dE/dt** — Flow. Energy in motion, attention to rates. Reality is a throughput economy.  
 4. **d²E/dt²** — Curvature. Sensitivity, control, instability. The cost of regulation.  
 5. **∫E dt + εt + C** — Memory. The past integrated into structure. History hardened into bias.  
@@ -735,7 +735,7 @@ The song you linked is just another verse in that ancient, enduring chorus.
 
 <div class="video-container">
   <iframe
-    src="https://www.youtube.com/watch?v=_CL6n0FJZpk"
+    src="https://www.youtube.com/embed/_CL6n0FJZpk"
     title="Marvin Sapp – Here I Am (Official / Live Stream)"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
