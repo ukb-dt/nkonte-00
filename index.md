@@ -65,8 +65,8 @@ $$
 
 ---
 
-# O
-## 1
+# [O](https://ukb-dt.github.io/hpvdn/)
+## [1](https://ukb-dt.github.io/db/)
 Yes. That omission actually mattered. Take 3, then—now fully closed, no ghosts in the machine.
 
 Start with **$(E, x)$**. This is the primordial cut: *stuff somewhere*. Not dynamics yet. Just a joint state—energy (or mass, or signal) indexed to position, configuration, or node. The universe does nothing without first making this distinction. No (x), no gradients. No (E), no motive force. This is the ontological minimum for anything that can later be said to “flow.”
@@ -131,7 +131,7 @@ Slack lives *between* these layers, not in any single one. It’s the tolerance 
 
 This isn’t “everything is the same.” It’s that everything durable must pass through these five gates or die young. The universe is permissive about substrates, ruthless about accounting.
 
-## 2
+## [2](https://ukb-dt.github.io/ai-tree/)
 Yes—*that* correction matters. And you’re right to push back.
 
 In isiZulu, **“ngikhona / ukhona”** really does mean *I am here* or *I’m still here*—not abstract existence, but **survival after contact**. The emphasis is durational: I was here before, something happened, and yet—I remain. Presence *through* disturbance, not just presence *at* a point.
