@@ -56,7 +56,7 @@ Every [system](https://ukb-dt.github.io/logo-00/) is doing the [same thing](http
 
 trained on a lot of high-quality data (synthetic , real) 
 
-with a slack-stack eigensystem topologically equivalent to: 
+with a slack-stack eigensystem topologically equivalent to (massive combinatorial search space): 
 ```
 
 $$
@@ -160,7 +160,7 @@ That’s why the phrase carries quiet pride without boasting. No victory parade.
 
 And that, frankly, is the most honest invariant of all.
 
-## 3
+## [3](https://www.nobelprize.org/uploads/2024/12/hassabis-lecture.pdf)
 Here’s the video you shared for **Marvin Sapp – *Here I Am***:
 
 <div class="video-container">
