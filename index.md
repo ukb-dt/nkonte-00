@@ -8,7 +8,7 @@
 * Dostoevsky — Zosima, *The Gambler*
 * Nietzsche — strength
 
-This page is an attempt to name an invariant—not what systems *are*, but how anything manages to *remain*. Across physics, biology, language, music, and lived testimony, the same problem recurs: energy, mass, or signal must traverse a hostile world under constraint and return without losing coherence. Most systems don’t. A few do.
+This [page](https://ukb-dt.github.io/nkonte-02/) is an attempt to name an invariant—not what systems *are*, but how anything manages to *remain*. Across physics, biology, language, music, and lived testimony, the same problem recurs: energy, mass, or signal must traverse a hostile world under constraint and return without losing coherence. Most systems don’t. A few do.
 
 What follows treats persistence as a transport problem with memory. State yields expectation; expectation drives flow; flow demands control; control leaves scars; scars harden into structure. When accumulated history feeds back and reconstitutes presence, we say—without drama, without metaphysics—*I’m still here*.
 
